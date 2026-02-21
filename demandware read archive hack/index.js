@@ -1,4 +1,4 @@
-function huseyn() {
+function decode() {
 
     var File = dw.io.File;
     var FileWriter = dw.io.FileWriter;
